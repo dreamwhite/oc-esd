@@ -2,7 +2,7 @@
 
 A small webpage to generate ExposeSensitiveData for OpenCore.
 
-Site available at: https://dreamwhite-oc-esd.vercel.app
+Site available at: https://oc-esd-dreamwhite.vercel.app
 
 # Credits
 
